@@ -1,0 +1,29 @@
+# --- JAVA / INTELLIJ (Lo gordo) ---
+# Ignorar configuraciones del IDE
+.idea/
+*.iml
+*.iws
+
+# Ignorar compilados (lo que genera el ordenador)
+out/
+bin/
+target/
+*.class
+*.log
+*.jar
+
+# --- JAVASCRIPT / VS CODE ---
+# Ignorar dependencias pesadas
+node_modules/
+dist/
+
+# Ignorar logs de errores
+npm-debug.log*
+yarn-debug.log*
+
+# Ignorar configuraciones locales de VS Code (opcional)
+.vscode/
+
+# --- SISTEMA OPERATIVO ---
+.DS_Store
+Thumbs.db
