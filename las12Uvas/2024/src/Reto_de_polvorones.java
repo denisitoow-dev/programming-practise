@@ -1,6 +1,7 @@
 package las12Uvas;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Reto_de_polvorones {
@@ -36,4 +37,5 @@ public class Reto_de_polvorones {
         }
     }
 }
+
 

@@ -1,4 +1,4 @@
-package Joel.ITB_00_Primers_Exercicis
+package itb_00_Primers_Exercicis
 
 import java.util.Scanner
 
